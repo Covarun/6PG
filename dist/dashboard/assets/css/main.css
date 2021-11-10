@@ -28,3 +28,7 @@ body {
 footer {
     display: none!important;
 }
+
+.box_astronaut[_ngcontent-serverApp-c42] {
+    display: none;
+}
