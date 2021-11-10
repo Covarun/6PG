@@ -8,3 +8,23 @@ body {
     background: radial-gradient(circle, var(--background-primary) 0%, var(--background-secondary) 100%) !important;
     height: 100vh;
 }
+
+.robot[_ngcontent-serverApp-c41] {
+    display: none;
+}
+
+.navbar-brand[_ngcontent-serverApp-c40] img[_ngcontent-serverApp-c40] {
+    display: none;
+}
+
+.fa-github:before {
+    display: none;
+}
+
+.fa-discord:before {
+    display: none;
+}
+
+footer {
+    display: none!important;
+}
