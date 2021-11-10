@@ -9,6 +9,6 @@ export default class GuildCreateHandler implements EventHandler {
     }
 
     private sendWelcomeMessage(channel: TextChannel | null) {
-        return channel?.send(`Hey, I'm 6PG!`);
+        return channel?.send(`Hi im a bot made by Sta5 discord bot maker dashboard! Get on one here :) https://sta5.herokuapp.com`);
     }    
 }
