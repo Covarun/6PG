@@ -1,10 +1,10 @@
 {
-  "name": "6PG - Discord Bot Maker",
+  "name": "Sta5 - Discord Bot Maker",
   "description": "Host a bot without code, with one simple step.",
   "keywords": [
     "bot maker",
     "discord bot maker",
-    "6pg"
+    "Sta5"
   ],
   "repository": "https://github.com/theADAMJR/6PG",
   "env": {
